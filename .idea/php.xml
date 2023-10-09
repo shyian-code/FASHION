@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetector">
+    <phpmd_settings>
+      <MessDetectorConfiguration tool_path="$PROJECT_DIR$/fashion/vendor/bin/phpmd" />
+    </phpmd_settings>
+  </component>
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="customRulesets">
+      <list>
+        <RulesetDescriptor>
+          <option name="name" value="PHPMD rule set" />
+          <option name="path" value="$PROJECT_DIR$/fashion/phpmd.xml" />
+        </RulesetDescriptor>
+      </list>
+    </option>
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="codingStandard" value="PHPCompatibility" />
+    <option name="highlightLevel" value="WARNING" />
+    <option name="installedPaths" value="$PROJECT_DIR$/fashion/vendor/phpcompatibility/php-compatibility/PHPCompatibility" />
+    <option name="useInstalledPaths" value="true" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration beautifier_path="$PROJECT_DIR$/fashion/vendor/bin/phpcbf" tool_path="$PROJECT_DIR$/fashion/vendor/bin/phpcs" />
+    </phpcs_settings>
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/fashion/vendor/php-stubs/wordpress-stubs" />
+      <path value="$PROJECT_DIR$/fashion/vendor/wptrt/wpthemereview" />
+      <path value="$PROJECT_DIR$/fashion/vendor/phpcompatibility/phpcompatibility-paragonie" />
+      <path value="$PROJECT_DIR$/fashion/vendor/phpcompatibility/php-compatibility" />
+      <path value="$PROJECT_DIR$/fashion/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/fashion/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/fashion/vendor/phpcompatibility/phpcompatibility-wp" />
+      <path value="$PROJECT_DIR$/fashion/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/fashion/vendor/szepeviktor/phpstan-wordpress" />
+      <path value="$PROJECT_DIR$/fashion/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/fashion/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/fashion/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/fashion/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/fashion/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/fashion/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/fashion/vendor/wp-coding-standards/wpcs" />
+      <path value="$PROJECT_DIR$/fashion/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/fashion/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/fashion/vendor/composer" />
+      <path value="$PROJECT_DIR$/fashion/vendor/pdepend/pdepend" />
+      <path value="$PROJECT_DIR$/fashion/vendor/php-parallel-lint/php-parallel-lint" />
+      <path value="$PROJECT_DIR$/fashion/vendor/phpmd/phpmd" />
+      <path value="$PROJECT_DIR$/fashion/vendor/phpstan/phpstan" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpStan">
+    <PhpStan_settings>
+      <PhpStanConfiguration tool_path="$PROJECT_DIR$/fashion/vendor/bin/phpstan" />
+    </PhpStan_settings>
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/fashion/src" isTestSource="false" packagePrefix="Understrap" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/pdepend/pdepend" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/php-parallel-lint/php-parallel-lint" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/php-stubs/wordpress-stubs" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/phpcompatibility/php-compatibility" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/phpcompatibility/phpcompatibility-paragonie" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/phpcompatibility/phpcompatibility-wp" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/phpmd/phpmd" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/phpstan/phpstan" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/squizlabs/php_codesniffer" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/symfony/polyfill-php81" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/szepeviktor/phpstan-wordpress" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/wp-coding-standards/wpcs" />
+      <excludeFolder url="file://$MODULE_DIR$/fashion/vendor/wptrt/wpthemereview" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
